@@ -1,0 +1,142 @@
+{
+	"id": -1,
+	"name": "Shipka Monument",
+	"description": "The Liberty Memorial is the symbol of modern Bulgaria and the liberation of Bulgaria. The monument is located on Shipka Peak. Its outline resembles a medieval Bulgarian fortress and was built with donations from the people from all over Bulgaria and was inaugurated on 26 August 1934. The monument signifies the heroic defense of the pass. The Ottoman unblocking army of Süleyman Hüsnü Pasha failed to come to the rescue and the Siege of Pleven ended in victory. The latter also predetermines the outcome of the Russo-Turkish war. (1877–1878).",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Shipka_Monument"
+		],
+		"subreddit": [
+			"bulgaria"
+		],
+		"discord": [
+			"dHPrbau3sW"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-540,
+				15
+			],
+			[
+				-538,
+				15
+			],
+			[
+				-538,
+				17
+			],
+			[
+				-535,
+				17
+			],
+			[
+				-535,
+				15
+			],
+			[
+				-533,
+				15
+			],
+			[
+				-533,
+				17
+			],
+			[
+				-530,
+				17
+			],
+			[
+				-530,
+				15
+			],
+			[
+				-528,
+				15
+			],
+			[
+				-528,
+				16
+			],
+			[
+				-529,
+				17
+			],
+			[
+				-529,
+				21
+			],
+			[
+				-528,
+				22
+			],
+			[
+				-528,
+				34
+			],
+			[
+				-526,
+				36
+			],
+			[
+				-526,
+				39
+			],
+			[
+				-525,
+				39
+			],
+			[
+				-525,
+				41
+			],
+			[
+				-543,
+				41
+			],
+			[
+				-543,
+				39
+			],
+			[
+				-542,
+				39
+			],
+			[
+				-542,
+				36
+			],
+			[
+				-540,
+				34
+			],
+			[
+				-540,
+				22
+			],
+			[
+				-539,
+				22
+			],
+			[
+				-539,
+				16
+			],
+			[
+				-540,
+				16
+			],
+			[
+				-540,
+				15
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-534,
+			28
+		]
+	}
+}
